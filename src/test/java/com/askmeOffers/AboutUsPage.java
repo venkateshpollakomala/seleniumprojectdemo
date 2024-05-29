@@ -15,6 +15,8 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
+
 public class AboutUsPage {
 
 	WebDriver driver;
@@ -25,6 +27,7 @@ public class AboutUsPage {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get("https://askmeoffers.com/pages/about-us/");
+		System.out.println("Print this code just have chenged this code for practice");
 	}
 
 	@AfterMethod
