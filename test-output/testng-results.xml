@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="42" passed="42" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-29T00:58:49 IST" name="Suite" finished-at="2024-04-29T01:05:45 IST" duration-ms="416381">
+    <groups>
+    </groups>
+    <test started-at="2024-04-29T00:58:49 IST" name="Test" finished-at="2024-04-29T01:05:45 IST" duration-ms="416381">
+      <class name="com.askmeOffers.AboutUsPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:31 IST" name="setUp" finished-at="2024-04-29T01:00:33 IST" duration-ms="1887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkImages()[pri:1, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:33 IST" name="checkImages" finished-at="2024-04-29T01:00:33 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:33 IST" name="tearDown" finished-at="2024-04-29T01:00:33 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:33 IST" name="setUp" finished-at="2024-04-29T01:00:35 IST" duration-ms="2127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenImages()[pri:2, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:35 IST" name="verifyBrokenImages" finished-at="2024-04-29T01:00:36 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:36 IST" name="tearDown" finished-at="2024-04-29T01:00:36 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:36 IST" name="setUp" finished-at="2024-04-29T01:00:38 IST" duration-ms="1826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestAllLinksOnHomepage()[pri:3, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:38 IST" name="TestAllLinksOnHomepage" finished-at="2024-04-29T01:00:39 IST" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllLinksOnHomepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:39 IST" name="tearDown" finished-at="2024-04-29T01:00:39 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:39 IST" name="setUp" finished-at="2024-04-29T01:00:41 IST" duration-ms="2154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenLinks()[pri:4, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:41 IST" name="verifyBrokenLinks" finished-at="2024-04-29T01:00:51 IST" duration-ms="10146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.AboutUsPage@53fb3dab]" started-at="2024-04-29T01:00:51 IST" name="tearDown" finished-at="2024-04-29T01:00:51 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askmeOffers.AboutUsPage -->
+      <class name="com.askmeOffers.OurHistoryPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:51 IST" name="setUp" finished-at="2024-04-29T01:00:53 IST" duration-ms="1805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkImages()[pri:1, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:53 IST" name="checkImages" finished-at="2024-04-29T01:00:53 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:53 IST" name="tearDown" finished-at="2024-04-29T01:00:53 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:53 IST" name="setUp" finished-at="2024-04-29T01:00:55 IST" duration-ms="1891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenImages()[pri:2, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:55 IST" name="verifyBrokenImages" finished-at="2024-04-29T01:00:55 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:55 IST" name="tearDown" finished-at="2024-04-29T01:00:55 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:55 IST" name="setUp" finished-at="2024-04-29T01:00:57 IST" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestAllLinksOnHomepage()[pri:3, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:57 IST" name="TestAllLinksOnHomepage" finished-at="2024-04-29T01:00:58 IST" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllLinksOnHomepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:58 IST" name="tearDown" finished-at="2024-04-29T01:00:58 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:00:58 IST" name="setUp" finished-at="2024-04-29T01:01:00 IST" duration-ms="1960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenLinks()[pri:4, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:01:00 IST" name="verifyBrokenLinks" finished-at="2024-04-29T01:01:12 IST" duration-ms="11542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.OurHistoryPage@cb0755b]" started-at="2024-04-29T01:01:12 IST" name="tearDown" finished-at="2024-04-29T01:01:14 IST" duration-ms="1931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askmeOffers.OurHistoryPage -->
+      <class name="com.askmeOffers.navigateToTechPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:14 IST" name="setUp" finished-at="2024-04-29T01:01:16 IST" duration-ms="1838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkImages()[pri:1, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:16 IST" name="checkImages" finished-at="2024-04-29T01:01:19 IST" duration-ms="3264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:19 IST" name="tearDown" finished-at="2024-04-29T01:01:19 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:19 IST" name="setUp" finished-at="2024-04-29T01:01:21 IST" duration-ms="2022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenImages()[pri:2, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:21 IST" name="verifyBrokenImages" finished-at="2024-04-29T01:01:23 IST" duration-ms="1866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:23 IST" name="tearDown" finished-at="2024-04-29T01:01:23 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:23 IST" name="setUp" finished-at="2024-04-29T01:01:25 IST" duration-ms="1484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestAllLinksOnHomepage()[pri:3, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:25 IST" name="TestAllLinksOnHomepage" finished-at="2024-04-29T01:01:28 IST" duration-ms="2986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllLinksOnHomepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:28 IST" name="tearDown" finished-at="2024-04-29T01:01:28 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:28 IST" name="setUp" finished-at="2024-04-29T01:01:30 IST" duration-ms="1956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenLinks()[pri:4, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:30 IST" name="verifyBrokenLinks" finished-at="2024-04-29T01:01:48 IST" duration-ms="18553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.navigateToTechPage@33065d67]" started-at="2024-04-29T01:01:48 IST" name="tearDown" finished-at="2024-04-29T01:01:49 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askmeOffers.navigateToTechPage -->
+      <class name="com.askmeOffers.BreakingNewsPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:58:49 IST" name="setUp" finished-at="2024-04-29T00:58:52 IST" duration-ms="2643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkImages()[pri:1, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:58:52 IST" name="checkImages" finished-at="2024-04-29T00:58:57 IST" duration-ms="4840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:58:57 IST" name="tearDown" finished-at="2024-04-29T00:58:57 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:58:57 IST" name="setUp" finished-at="2024-04-29T00:58:59 IST" duration-ms="1927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenImages()[pri:2, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:58:59 IST" name="verifyBrokenImages" finished-at="2024-04-29T00:59:01 IST" duration-ms="2587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:59:01 IST" name="tearDown" finished-at="2024-04-29T00:59:03 IST" duration-ms="1699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:59:03 IST" name="setUp" finished-at="2024-04-29T00:59:05 IST" duration-ms="1846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestAllLinksOnHomepage()[pri:3, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:59:05 IST" name="TestAllLinksOnHomepage" finished-at="2024-04-29T00:59:09 IST" duration-ms="3793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllLinksOnHomepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:59:09 IST" name="tearDown" finished-at="2024-04-29T00:59:09 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:59:09 IST" name="setUp" finished-at="2024-04-29T00:59:11 IST" duration-ms="1845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenLinks()[pri:4, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:59:11 IST" name="verifyBrokenLinks" finished-at="2024-04-29T00:59:31 IST" duration-ms="20578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.BreakingNewsPage@750e2b97]" started-at="2024-04-29T00:59:31 IST" name="tearDown" finished-at="2024-04-29T00:59:32 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askmeOffers.BreakingNewsPage -->
+      <class name="com.askmeOffers.HomePage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:32 IST" name="setUp" finished-at="2024-04-29T00:59:35 IST" duration-ms="3054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkImages()[pri:1, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:35 IST" name="checkImages" finished-at="2024-04-29T00:59:36 IST" duration-ms="1487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:36 IST" name="tearDown" finished-at="2024-04-29T00:59:36 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:36 IST" name="setUp" finished-at="2024-04-29T00:59:40 IST" duration-ms="3215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenImages()[pri:2, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:40 IST" name="verifyBrokenImages" finished-at="2024-04-29T00:59:40 IST" duration-ms="752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:40 IST" name="tearDown" finished-at="2024-04-29T00:59:41 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:41 IST" name="setUp" finished-at="2024-04-29T00:59:46 IST" duration-ms="5384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestAllLinksOnHomepage()[pri:3, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:46 IST" name="TestAllLinksOnHomepage" finished-at="2024-04-29T00:59:48 IST" duration-ms="2124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllLinksOnHomepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:48 IST" name="tearDown" finished-at="2024-04-29T00:59:48 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:48 IST" name="setUp" finished-at="2024-04-29T00:59:52 IST" duration-ms="3778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenLinks()[pri:4, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T00:59:52 IST" name="verifyBrokenLinks" finished-at="2024-04-29T01:00:03 IST" duration-ms="11099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.HomePage@548d708a]" started-at="2024-04-29T01:00:03 IST" name="tearDown" finished-at="2024-04-29T01:00:03 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askmeOffers.HomePage -->
+      <class name="com.askmeOffers.HomepageSearch">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:03 IST" name="setUp" finished-at="2024-04-29T01:00:06 IST" duration-ms="2860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:06 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:09 IST" duration-ms="2331" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admyrin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:09 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:11 IST" duration-ms="2273" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adobe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:11 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:13 IST" duration-ms="2292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adorbuds]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:13 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:15 IST" duration-ms="2283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ae]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:15 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:18 IST" duration-ms="2270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[afragrancestory]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:18 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:20 IST" duration-ms="2283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ageo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:20 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:22 IST" duration-ms="2230" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[agmwebhosting]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:22 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:25 IST" duration-ms="2326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[agoda]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:25 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:27 IST" duration-ms="2318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[agro-market]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testSearch(java.lang.String)[pri:1, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:27 IST" name="testSearch" data-provider="searchQueries" finished-at="2024-04-29T01:00:29 IST" duration-ms="2293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[agscinemas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testInvalidSearchQueries(java.lang.String)[pri:2, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:29 IST" name="testInvalidSearchQueries" data-provider="invalidSearchQueries" finished-at="2024-04-29T01:00:29 IST" duration-ms="266" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidSearchQueries -->
+        <test-method signature="testInvalidSearchQueries(java.lang.String)[pri:2, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:29 IST" name="testInvalidSearchQueries" data-provider="invalidSearchQueries" finished-at="2024-04-29T01:00:30 IST" duration-ms="260" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[&&&]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidSearchQueries -->
+        <test-method signature="testInvalidSearchQueries(java.lang.String)[pri:2, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:30 IST" name="testInvalidSearchQueries" data-provider="invalidSearchQueries" finished-at="2024-04-29T01:00:30 IST" duration-ms="285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nonexistentsearchquery]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidSearchQueries -->
+        <test-method signature="testSearchResultsDisplayed()[pri:3, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:30 IST" name="testSearchResultsDisplayed" finished-at="2024-04-29T01:00:30 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchResultsDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.HomepageSearch@4b013c76]" started-at="2024-04-29T01:00:30 IST" name="tearDown" finished-at="2024-04-29T01:00:31 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askmeOffers.HomepageSearch -->
+      <class name="com.askmeOffers.EcommerceNewsPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:01:49 IST" name="setUp" finished-at="2024-04-29T01:01:52 IST" duration-ms="3214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkImages()[pri:1, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:01:52 IST" name="checkImages" finished-at="2024-04-29T01:02:34 IST" duration-ms="42122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:02:34 IST" name="tearDown" finished-at="2024-04-29T01:02:34 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:02:34 IST" name="setUp" finished-at="2024-04-29T01:02:37 IST" duration-ms="2731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenImages()[pri:2, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:02:37 IST" name="verifyBrokenImages" finished-at="2024-04-29T01:02:57 IST" duration-ms="20219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:02:57 IST" name="tearDown" finished-at="2024-04-29T01:02:57 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:02:57 IST" name="setUp" finished-at="2024-04-29T01:03:00 IST" duration-ms="2482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestAllLinksOnHomepage()[pri:3, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:03:00 IST" name="TestAllLinksOnHomepage" finished-at="2024-04-29T01:03:49 IST" duration-ms="48782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllLinksOnHomepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:03:49 IST" name="tearDown" finished-at="2024-04-29T01:03:49 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:03:49 IST" name="setUp" finished-at="2024-04-29T01:03:52 IST" duration-ms="2945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenLinks()[pri:4, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:03:52 IST" name="verifyBrokenLinks" finished-at="2024-04-29T01:04:46 IST" duration-ms="54338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.EcommerceNewsPage@712625fd]" started-at="2024-04-29T01:04:46 IST" name="tearDown" finished-at="2024-04-29T01:04:46 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askmeOffers.EcommerceNewsPage -->
+      <class name="com.askmeOffers.HealthPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:04:46 IST" name="setUp" finished-at="2024-04-29T01:04:48 IST" duration-ms="1992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkImages()[pri:1, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:04:48 IST" name="checkImages" finished-at="2024-04-29T01:05:00 IST" duration-ms="11786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:00 IST" name="tearDown" finished-at="2024-04-29T01:05:02 IST" duration-ms="1912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:02 IST" name="setUp" finished-at="2024-04-29T01:05:04 IST" duration-ms="2160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenImages()[pri:2, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:04 IST" name="verifyBrokenImages" finished-at="2024-04-29T01:05:11 IST" duration-ms="6463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenImages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:11 IST" name="tearDown" finished-at="2024-04-29T01:05:11 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:11 IST" name="setUp" finished-at="2024-04-29T01:05:13 IST" duration-ms="1999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestAllLinksOnHomepage()[pri:3, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:13 IST" name="TestAllLinksOnHomepage" finished-at="2024-04-29T01:05:20 IST" duration-ms="7136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllLinksOnHomepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:20 IST" name="tearDown" finished-at="2024-04-29T01:05:20 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:20 IST" name="setUp" finished-at="2024-04-29T01:05:22 IST" duration-ms="2011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBrokenLinks()[pri:4, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:22 IST" name="verifyBrokenLinks" finished-at="2024-04-29T01:05:45 IST" duration-ms="23035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askmeOffers.HealthPage@7bba5817]" started-at="2024-04-29T01:05:45 IST" name="tearDown" finished-at="2024-04-29T01:05:45 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askmeOffers.HealthPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

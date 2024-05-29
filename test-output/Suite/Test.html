@@ -1,0 +1,290 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>42/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Apr 29 00:58:49 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>416 seconds (416381 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: adobe</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.HealthPage.verifyBrokenImages()'><b>verifyBrokenImages</b><br>Test class: com.askmeOffers.HealthPage</td>
+<td></td>
+<td>6</td>
+<td>com.askmeOffers.HealthPage@7bba5817</td></tr>
+<tr>
+<td title='com.askmeOffers.BreakingNewsPage.TestAllLinksOnHomepage()'><b>TestAllLinksOnHomepage</b><br>Test class: com.askmeOffers.BreakingNewsPage</td>
+<td></td>
+<td>3</td>
+<td>com.askmeOffers.BreakingNewsPage@750e2b97</td></tr>
+<tr>
+<td title='com.askmeOffers.BreakingNewsPage.verifyBrokenImages()'><b>verifyBrokenImages</b><br>Test class: com.askmeOffers.BreakingNewsPage</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.BreakingNewsPage@750e2b97</td></tr>
+<tr>
+<td title='com.askmeOffers.HomePage.verifyBrokenLinks()'><b>verifyBrokenLinks</b><br>Test class: com.askmeOffers.HomePage</td>
+<td></td>
+<td>11</td>
+<td>com.askmeOffers.HomePage@548d708a</td></tr>
+<tr>
+<td title='com.askmeOffers.navigateToTechPage.verifyBrokenLinks()'><b>verifyBrokenLinks</b><br>Test class: com.askmeOffers.navigateToTechPage</td>
+<td></td>
+<td>18</td>
+<td>com.askmeOffers.navigateToTechPage@33065d67</td></tr>
+<tr>
+<td title='com.askmeOffers.HomePage.verifyBrokenImages()'><b>verifyBrokenImages</b><br>Test class: com.askmeOffers.HomePage</td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.HomePage@548d708a</td></tr>
+<tr>
+<td title='com.askmeOffers.OurHistoryPage.TestAllLinksOnHomepage()'><b>TestAllLinksOnHomepage</b><br>Test class: com.askmeOffers.OurHistoryPage</td>
+<td></td>
+<td>1</td>
+<td>com.askmeOffers.OurHistoryPage@cb0755b</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: ageo</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.AboutUsPage.verifyBrokenImages()'><b>verifyBrokenImages</b><br>Test class: com.askmeOffers.AboutUsPage</td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.AboutUsPage@53fb3dab</td></tr>
+<tr>
+<td title='com.askmeOffers.EcommerceNewsPage.verifyBrokenLinks()'><b>verifyBrokenLinks</b><br>Test class: com.askmeOffers.EcommerceNewsPage</td>
+<td></td>
+<td>54</td>
+<td>com.askmeOffers.EcommerceNewsPage@712625fd</td></tr>
+<tr>
+<td title='com.askmeOffers.navigateToTechPage.verifyBrokenImages()'><b>verifyBrokenImages</b><br>Test class: com.askmeOffers.navigateToTechPage</td>
+<td></td>
+<td>1</td>
+<td>com.askmeOffers.navigateToTechPage@33065d67</td></tr>
+<tr>
+<td title='com.askmeOffers.AboutUsPage.checkImages()'><b>checkImages</b><br>Test class: com.askmeOffers.AboutUsPage</td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.AboutUsPage@53fb3dab</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testInvalidSearchQueries()'><b>testInvalidSearchQueries</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: &&&</td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.OurHistoryPage.verifyBrokenImages()'><b>verifyBrokenImages</b><br>Test class: com.askmeOffers.OurHistoryPage</td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.OurHistoryPage@cb0755b</td></tr>
+<tr>
+<td title='com.askmeOffers.HealthPage.checkImages()'><b>checkImages</b><br>Test class: com.askmeOffers.HealthPage</td>
+<td></td>
+<td>11</td>
+<td>com.askmeOffers.HealthPage@7bba5817</td></tr>
+<tr>
+<td title='com.askmeOffers.HealthPage.TestAllLinksOnHomepage()'><b>TestAllLinksOnHomepage</b><br>Test class: com.askmeOffers.HealthPage</td>
+<td></td>
+<td>7</td>
+<td>com.askmeOffers.HealthPage@7bba5817</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: admyrin</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.navigateToTechPage.checkImages()'><b>checkImages</b><br>Test class: com.askmeOffers.navigateToTechPage</td>
+<td></td>
+<td>3</td>
+<td>com.askmeOffers.navigateToTechPage@33065d67</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: agmwebhosting</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.EcommerceNewsPage.TestAllLinksOnHomepage()'><b>TestAllLinksOnHomepage</b><br>Test class: com.askmeOffers.EcommerceNewsPage</td>
+<td></td>
+<td>48</td>
+<td>com.askmeOffers.EcommerceNewsPage@712625fd</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: afragrancestory</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: agro-market</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.BreakingNewsPage.verifyBrokenLinks()'><b>verifyBrokenLinks</b><br>Test class: com.askmeOffers.BreakingNewsPage</td>
+<td></td>
+<td>20</td>
+<td>com.askmeOffers.BreakingNewsPage@750e2b97</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: adorbuds</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: agscinemas</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.AboutUsPage.verifyBrokenLinks()'><b>verifyBrokenLinks</b><br>Test class: com.askmeOffers.AboutUsPage</td>
+<td></td>
+<td>10</td>
+<td>com.askmeOffers.AboutUsPage@53fb3dab</td></tr>
+<tr>
+<td title='com.askmeOffers.OurHistoryPage.checkImages()'><b>checkImages</b><br>Test class: com.askmeOffers.OurHistoryPage</td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.OurHistoryPage@cb0755b</td></tr>
+<tr>
+<td title='com.askmeOffers.AboutUsPage.TestAllLinksOnHomepage()'><b>TestAllLinksOnHomepage</b><br>Test class: com.askmeOffers.AboutUsPage</td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.AboutUsPage@53fb3dab</td></tr>
+<tr>
+<td title='com.askmeOffers.BreakingNewsPage.checkImages()'><b>checkImages</b><br>Test class: com.askmeOffers.BreakingNewsPage</td>
+<td></td>
+<td>4</td>
+<td>com.askmeOffers.BreakingNewsPage@750e2b97</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testInvalidSearchQueries()'><b>testInvalidSearchQueries</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: nonexistentsearchquery</td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.EcommerceNewsPage.checkImages()'><b>checkImages</b><br>Test class: com.askmeOffers.EcommerceNewsPage</td>
+<td></td>
+<td>42</td>
+<td>com.askmeOffers.EcommerceNewsPage@712625fd</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: ae</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.HealthPage.verifyBrokenLinks()'><b>verifyBrokenLinks</b><br>Test class: com.askmeOffers.HealthPage</td>
+<td></td>
+<td>23</td>
+<td>com.askmeOffers.HealthPage@7bba5817</td></tr>
+<tr>
+<td title='com.askmeOffers.HomePage.TestAllLinksOnHomepage()'><b>TestAllLinksOnHomepage</b><br>Test class: com.askmeOffers.HomePage</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomePage@548d708a</td></tr>
+<tr>
+<td title='com.askmeOffers.EcommerceNewsPage.verifyBrokenImages()'><b>verifyBrokenImages</b><br>Test class: com.askmeOffers.EcommerceNewsPage</td>
+<td></td>
+<td>20</td>
+<td>com.askmeOffers.EcommerceNewsPage@712625fd</td></tr>
+<tr>
+<td title='com.askmeOffers.HomePage.checkImages()'><b>checkImages</b><br>Test class: com.askmeOffers.HomePage</td>
+<td></td>
+<td>1</td>
+<td>com.askmeOffers.HomePage@548d708a</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearchResultsDisplayed()'><b>testSearchResultsDisplayed</b><br>Test class: com.askmeOffers.HomepageSearch</td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.OurHistoryPage.verifyBrokenLinks()'><b>verifyBrokenLinks</b><br>Test class: com.askmeOffers.OurHistoryPage</td>
+<td></td>
+<td>11</td>
+<td>com.askmeOffers.OurHistoryPage@cb0755b</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testInvalidSearchQueries()'><b>testInvalidSearchQueries</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: </td>
+<td></td>
+<td>0</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.HomepageSearch.testSearch()'><b>testSearch</b><br>Test class: com.askmeOffers.HomepageSearch<br>Parameters: agoda</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.HomepageSearch@4b013c76</td></tr>
+<tr>
+<td title='com.askmeOffers.navigateToTechPage.TestAllLinksOnHomepage()'><b>TestAllLinksOnHomepage</b><br>Test class: com.askmeOffers.navigateToTechPage</td>
+<td></td>
+<td>2</td>
+<td>com.askmeOffers.navigateToTechPage@33065d67</td></tr>
+</table><p>
+</body>
+</html>
